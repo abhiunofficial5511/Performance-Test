@@ -5171,7 +5171,7 @@ sampler.getHeaderManager().add(new Header(&quot;Authorization&quot;,&quot;Bearer
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\Users\AbhishekRawat\Desktop\New folder\result.csv</stringProp>
+        <stringProp name="filename">C:\Users\AbhishekRawat\Desktop\GitHub Azurepipelining\result.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="AssertionVisualizer" testclass="ResultCollector" testname="Assertion Results" enabled="true">
@@ -5326,17 +5326,17 @@ sampler.getHeaderManager().add(new Header(&quot;Authorization&quot;,&quot;Bearer
             </elementProp>
             <elementProp name="useRegexForSamplerList" elementType="Argument">
               <stringProp name="Argument.name">useRegexForSamplerList</stringProp>
-              <stringProp name="Argument.value">false</stringProp>
+              <stringProp name="Argument.value">true</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="logResponseData" elementType="Argument">
               <stringProp name="Argument.name">logResponseData</stringProp>
-              <stringProp name="Argument.value">false</stringProp>
+              <stringProp name="Argument.value">true</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="logSampleData" elementType="Argument">
               <stringProp name="Argument.name">logSampleData</stringProp>
-              <stringProp name="Argument.value">false</stringProp>
+              <stringProp name="Argument.value">true</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
